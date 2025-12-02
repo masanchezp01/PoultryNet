@@ -1,0 +1,7 @@
+# Configuración Modelo Coccidiosis Pollos
+confidence_threshold = 0.75
+classes = ['Coccidiosis', 'Healthy']
+validation_accuracy = 0.9615
+total_classes = 2
+input_shape = (224, 224)
+timestamp = 2025-09-18 12:56:47
