@@ -1,8 +1,4 @@
 *
 !private/
 !public/
-!firebase/
-!firebase/**
-!models/
-!models/**
 !.gitignore
